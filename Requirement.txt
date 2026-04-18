@@ -1,0 +1,9 @@
+# Backend (.NET)
+ASP.NET Core Web API
+SQLite
+
+# Frontend (React)
+react
+react-dom
+react-router-dom
+axios
